@@ -1,0 +1,3 @@
+[filesystem "AdoptOpenJDK|1.8.0_272|/dev/sda3"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 7078 microseconds
